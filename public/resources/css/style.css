@@ -1,0 +1,84 @@
+.video {
+    border: 0.4em solid #fa7294;
+}
+
+.primeiro {
+    background-color: gold;
+    padding: 0.2em;
+    border-radius: 0.3em;
+}
+
+.segundo {
+    background-color: #C0C0C0;
+    padding: 0.2em;
+    border-radius: 0.3em;
+}
+
+.terceiro {
+    background-color: #cd7f32 ;
+    padding: 0.2em;
+    border-radius: 0.3em;
+}
+
+.tituloMusicas {
+    font-size: 1em;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+
+.bordaVisualizacoes {
+    background-color: #fa7294;
+    border-radius: 0.3em;
+    padding: 0.2em;
+}
+
+.bordaVizualizacoes:hover {
+    background-color: #fa547d;
+}
+
+.numero {
+    color: #fa547d;
+}
+
+#ordenar {
+    user-select: none;
+    background-color: #f799b1;
+    border-color: black;
+    outline: none;
+}
+
+#ordenar:focus {
+    outline: none;
+}
+
+.visualizacoes {
+    margin-bottom: 0.1rem;
+}
+
+.iconeSite {
+    width: 10rem;
+}
+
+.corpo {
+    background-color: black;
+}
+
+.container {
+    background-color: #f799b1;
+    color: white;
+}
+
+@media (min-width: 575px) {
+    .cabecalho {
+        margin-top: 1em;
+    }
+
+    .principal {
+        margin-bottom: 1em;
+    }
+
+    .iconeSite {
+        width: 14rem;
+    }
+}
