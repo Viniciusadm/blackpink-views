@@ -6,6 +6,6 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="/resources/css/style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
-    <title>Blackpink Stats</title>
+    <title>Blackpink Views - a contagem rumo ao próximo marco</title>
 </head>
 <body class="corpo">
